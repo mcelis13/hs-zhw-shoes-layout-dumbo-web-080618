@@ -30,5 +30,6 @@
 }
 
 .float-right {
+  position: relative;
   float: left;
 }
