@@ -26,5 +26,10 @@
 
 .float-left {
   float: left;
-  width: 70%
+  width: 70%;
+}
+
+.float-right {
+  float:right;
+  width: 30%;
 }
