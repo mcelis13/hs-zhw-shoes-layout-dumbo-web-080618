@@ -24,6 +24,8 @@
 
 /* Posititoning Classes */
 
-.left-float {
+.float-left {
   float: right;
 }
+
+.float-right
