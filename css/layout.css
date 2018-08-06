@@ -25,7 +25,7 @@
 /* Posititoning Classes */
 
 .shadow-left {
-  column-count: 2;
+  row-count: 2;
   column-gap: 2%;
   
 }
