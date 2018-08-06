@@ -41,5 +41,5 @@
 }
 
 .border-right {
-  display: inline;
+  float: left;
 }
