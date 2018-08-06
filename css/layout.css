@@ -27,6 +27,7 @@
 .float-left {
   float: left;
   width: 55%;
+  height: 45%;
   border: 2%;
 }
 
