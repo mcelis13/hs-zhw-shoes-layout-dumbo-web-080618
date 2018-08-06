@@ -25,5 +25,6 @@
 /* Posititoning Classes */
 
 .float-left {
-  float: left
+  float: left;
+  width: 80%
 }
