@@ -25,5 +25,5 @@
 /* Posititoning Classes */
 
 .left-float {
-  position: float-right;
+  float: right;
 }
