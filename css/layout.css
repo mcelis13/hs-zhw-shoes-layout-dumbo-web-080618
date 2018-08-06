@@ -24,22 +24,8 @@
 
 /* Posititoning Classes */
 
-.float-left {
-  float: left;
-  width: 70%;
-  padding: 2%;
-  border: 2%;
-}
-
-.float-right {
-  float: right;
-  width: 30%;
-}
-
-.bottom {
-  display: inline;
-}
-
-.border-right {
-  float: left;
+.shadow-left {
+  column-count: 2;
+  column-gap: 2%;
+  
 }
