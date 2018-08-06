@@ -28,4 +28,6 @@
   float: right;
 }
 
-.float-right
+.float-right {
+  float: left
+}
